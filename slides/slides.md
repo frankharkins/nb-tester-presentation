@@ -19,7 +19,7 @@
   * Easier to use <!-- .element: class="fragment" data-fragment-index="5" -->
   * Rich outputs <!-- .element: class="fragment" data-fragment-index="6" -->
 
-[Demo time]() <!-- .element: class="fragment" data-fragment-index="7" -->
+[Demo time](https://mybinder.org/v2/gh/frankharkins/nb-tester-presentation/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebook-quirks.ipynb) <!-- .element: class="fragment" data-fragment-index="7" -->
 
 ---
 
